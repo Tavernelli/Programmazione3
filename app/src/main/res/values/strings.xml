@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Subjectfind</string>
+    <string name="textview1">textview</string>
+    <string name="main_button">premi</string>
+    <string name="prova">insersci il corso</string>
+    <string name="icona">icona</string>
+    <string name="suggerimento">prova</string>
+    <string name="activity_details">Book Details</string>
+</resources>
